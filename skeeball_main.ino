@@ -44,7 +44,7 @@ int16_t    textX                     = matrix.width(),
 
 
 const char pressstring[] PROGMEM = "Press";
-int16_t    textY                = matrix.height(),
+int16_t    textY                 = matrix.height(),
            textMin2              = 8,
            hue2                  = 0;
 
